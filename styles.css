@@ -93,7 +93,7 @@ header p {
 }
 
 .info h2 {
-    font-size: 2.5em; /* Slightly larger subtitle */
+    font-size: 2.8em; /* Slightly larger subtitle */
     color: #fff;
     margin-bottom: 20px;
 }
@@ -104,13 +104,13 @@ header p {
 }
 
 .info ul li {
-    font-size: 1.3em; /* Larger list item text */
+    font-size: 1.5em; /* Larger list item text */
     color: #ccc;
     margin-bottom: 12px; /* Increased space between list items */
 }
 
 .info h3 {
-    font-size: 1.8em; /* Larger section headers */
+    font-size: 2em; /* Larger section headers */
     color: #fff;
     margin-top: 30px;
 }
